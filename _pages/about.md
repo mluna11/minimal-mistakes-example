@@ -1,9 +1,9 @@
 ---
-title: About Us
 permalink: /about/
+title: "About"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+layout: splash
 toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
 ---
 
 ## Example 
