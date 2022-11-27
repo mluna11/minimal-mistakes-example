@@ -5,6 +5,7 @@ layout: single
 toc: true
 ---
 
+Here are a few blurbs regarding our team.
 
 ## Maxine Luna
 
