@@ -5,6 +5,5 @@ layout: single
 toc: true
 ---
 
-## Example 
-
+## Executive Summary
 Maxine Luna is cool
