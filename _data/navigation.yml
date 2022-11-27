@@ -3,4 +3,4 @@ main:
   - title: "Executive Summary"
     url: 
   - title: "About"
-    url: /_pages/about.md
+    url: /_pages/about/
