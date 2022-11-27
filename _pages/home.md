@@ -5,5 +5,4 @@ layout: single
 toc: true
 ---
 
-## Executive Summary
-Maxine Luna is cool
+This is an example of the Executive Summary.
