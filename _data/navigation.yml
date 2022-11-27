@@ -1,6 +1,7 @@
 # main links
 main:
   - title: "Executive Summary"
-    url: 
+    url: /_pages/home/
   - title: "About"
     url: /_pages/about/
+  - title: "About"    
