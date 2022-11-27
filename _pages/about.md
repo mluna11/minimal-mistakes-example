@@ -5,6 +5,18 @@ layout: single
 toc: true
 ---
 
-## About 
+## Maxine Luna
 
-Maxine Luna is awesome
+Maxine Luna is awesome.
+
+## William Kamada
+
+William Kamada is stupendous.
+
+## Veronica Gutierrez
+
+Veronica Gutierrez is fantastic.
+
+## Jacqui Anderson
+
+Jacqui Anderson is cool.
