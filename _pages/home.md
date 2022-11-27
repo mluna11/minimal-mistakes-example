@@ -1,8 +1,7 @@
 ---
 title: "Executive Summary"
-permalink: 
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layout: home
+permalink: /
+layout: single
 toc: true
 ---
 
