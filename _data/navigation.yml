@@ -4,4 +4,5 @@ main:
     url: /_pages/home/
   - title: "About"
     url: /_pages/about/
-  - title: "References"    
+  - title: "References"
+    url: /_pages/references/
