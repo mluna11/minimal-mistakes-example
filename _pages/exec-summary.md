@@ -2,10 +2,11 @@
 title: "Executive Summary"
 layout: single
 permalink: [/exec-summary/](https://github.com/mluna11/minimal-mistakes-example/blob/adc643988f1908ef27b361917c811ca13145bd25/_pages/exec-summary.md)
-toc: true
+toc: false
 toc_sticky: false
 ---
 
+Test
 
 # Executive Summary
 
