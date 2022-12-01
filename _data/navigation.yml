@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Executive Summary"
-    url: /_pages/home/
+    url: /_pages/exec-summary/
   - title: "About"
     url: /_pages/about/
   - title: "References"
