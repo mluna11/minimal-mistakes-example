@@ -1,7 +1,7 @@
 ---
 title: "Executive Summary"
 layout: single
-permalink: [/exec-summary/](https://github.com/mluna11/minimal-mistakes-example/blob/34a278aa7d0d85699996529a10808538b586fccd/_pages/exec-summary/)
+permalink: [/exec-summary/](https://github.com/mluna11/minimal-mistakes-example/blob/10690914922c6517ce48cc904c7b0ddcffa90755/_pages/exec-summary.md)
 toc: true
 toc_sticky: false
 ---
