@@ -9,16 +9,17 @@ Here are a few blurbs regarding our team.
 
 ## Maxine Luna
 
-Maxine Luna is awesome.
+Has a bachelors in Environmental Science from University of Washington. Pursuing a Masters degree in Program Evaluation and Data Analytics from Arizona State University. Is an Operations Manager for an energy efficiency consulting firm.
 
-## William Kamada
+## William Sahr Kamada
 
-William Kamada is stupendous.
+Pursuing a graduate degree in Program Evaluation and Data Analytics. Works for a Non-profit Organization as a Monitoring, Evaluation, Accountability, and Learning
+Professional.
 
 ## Veronica Gutierrez
 
-Veronica Gutierrez is fantastic.
+Bachelors in Psychology from Illinois State University. Social worker for San Bernardino County. Pursuing a Masters in Program Evaluation and Data Analytics from Arizona State University.
 
 ## Jacqui Anderson
 
-Jacqui Anderson is cool.
+A graduate student at Arizona State University. Has a passion of Data Analytics within the realm of Higher Education. Enjoys being outdoors and spend my free time hiking, camping, kayaking, or climbing.
