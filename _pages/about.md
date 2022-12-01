@@ -13,7 +13,7 @@ Has a Bachelors in Environmental Science from the University of Washington. Is p
 
 ## William Sahr Kamada
 
-Is ursuing a graduate degree in Program Evaluation and Data Analytics. Works for a Non-profit Organization as a Monitoring, Evaluation, Accountability, and Learning
+Is pursuing a graduate degree in Program Evaluation and Data Analytics. Works for a Non-profit Organization as a Monitoring, Evaluation, Accountability, and Learning
 Professional.
 
 ## Veronica Gutierrez
