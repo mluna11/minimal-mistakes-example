@@ -5,8 +5,7 @@ layout: single
 toc: true
 ---
 
-<span style="font-size:12pt;">
-Burnette, C. (2017). Predicting Revitalization: a descriptive narrative and predictive analysis of neighborhood revitalization in Atlanta, Georgia.
+<span style="font-size:14pt;"> Burnette, C. (2017). Predicting Revitalization: a descriptive narrative and predictive analysis of neighborhood revitalization in Atlanta, Georgia.
 
 Tatian, P. A., Kingsley, G. T., Parilla, J., & Pendall, R. (2012). Building successful neighborhoods. Washington, DC: What Works Collaborative.
 
@@ -25,5 +24,4 @@ Coffin, D. A. (1989). The Impact of Historic Districts on Residential Property V
 
 Galster, G., Tatian, P. A., & Accordino, John. (2006). Targeting Investments for Neighborhood Revitalization. Journal of the American Planning Association, 72(4), 457-474
 
-Smith, Brent. (2003). The Impact of Community Development Corporations on Neighborhood Housing Markets. Modeling Appreciation. URBAN AFFAIRS REVIEW, 39(2), 181-204
-</span>
+Smith, Brent. (2003). The Impact of Community Development Corporations on Neighborhood Housing Markets. Modeling Appreciation. URBAN AFFAIRS REVIEW, 39(2), 181-204</span>
