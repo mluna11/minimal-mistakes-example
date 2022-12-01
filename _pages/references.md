@@ -5,7 +5,7 @@ layout: single
 toc: true
 ---
 
-<span style="font-size:4em;">
+<span style="font-size:1em;">
 Burnette, C. (2017). Predicting Revitalization: a descriptive narrative and predictive analysis of neighborhood revitalization in Atlanta, Georgia.
 
 Tatian, P. A., Kingsley, G. T., Parilla, J., & Pendall, R. (2012). Building successful neighborhoods. Washington, DC: What Works Collaborative.
