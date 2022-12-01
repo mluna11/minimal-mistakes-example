@@ -1,6 +1,6 @@
 ---
-layout: home
 title: "Executive Summary"
+layout: single
 permalink: [/home/](https://github.com/mluna11/minimal-mistakes-example/blob/34a278aa7d0d85699996529a10808538b586fccd/_pages/home/)
 toc: false
 toc_sticky: false
